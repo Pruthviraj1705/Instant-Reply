@@ -306,10 +306,6 @@ generate.mutate(data, {
 - Check you have credits available
 - Ensure `AI_INTEGRATIONS_OPENAI_API_KEY` is set
 
-## 📝 License
-
-MIT
-
 ## 🤝 Contributing
 
 1. Fork the repository
@@ -319,5 +315,10 @@ MIT
 5. Create a Pull Request
 
 ---
+## Ownership & Usage
+
+This project is provided for evaluation and review purposes only.
+All rights are reserved by the author. No permission is granted to use,
+copy, modify, or distribute this code without explicit written consent.
 
 Built with ❤️ using React, TypeScript, Express, and OpenAI
